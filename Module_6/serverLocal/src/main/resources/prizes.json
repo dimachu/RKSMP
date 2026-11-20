@@ -1,0 +1,98 @@
+[
+  {
+    "id": "1903-che",
+    "year": 1903,
+    "category": "che",
+    "fullName": "The Nobel Prize in Chemistry",
+    "laureates": [
+      {
+        "id": "162",
+        "fullName": "Svante August Arrhenius",
+        "motivation": "in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation",
+        "portion": "1",
+        "country": "Sweden",
+        "portraitUrl": null
+      }
+    ]
+  },
+  {
+    "id": "1903-lit",
+    "year": 1903,
+    "category": "lit",
+    "fullName": "The Nobel Prize in Literature",
+    "laureates": [
+      {
+        "id": "572",
+        "fullName": "Bjørnstjerne Martinus Bjørnson",
+        "motivation": "as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit",
+        "portion": "1",
+        "country": "Norway",
+        "portraitUrl": null
+      }
+    ]
+  },
+  {
+    "id": "1903-pea",
+    "year": 1903,
+    "category": "pea",
+    "fullName": "The Nobel Peace Prize",
+    "laureates": [
+      {
+        "id": "466",
+        "fullName": "William Randal Cremer",
+        "motivation": "for his longstanding and devoted effort in favour of the ideas of peace and arbitration",
+        "portion": "1",
+        "country": "United Kingdom",
+        "portraitUrl": null
+      }
+    ]
+  },
+  {
+    "id": "1903-phy",
+    "year": 1903,
+    "category": "phy",
+    "fullName": "The Nobel Prize in Physics",
+    "laureates": [
+      {
+        "id": "4",
+        "fullName": "Antoine Henri Becquerel",
+        "motivation": "in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity",
+        "portion": "1/2",
+        "country": "France",
+        "portraitUrl": null
+      },
+      {
+        "id": "5",
+        "fullName": "Pierre Curie",
+        "motivation": "in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel",
+        "portion": "1/4",
+        "country": "France",
+        "portraitUrl": null
+      },
+      {
+        "id": "6",
+        "fullName": "Marie Curie, née Skłodowska",
+        "motivation": "in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel",
+        "portion": "1/4",
+        "country": "Russian Empire",
+        "portraitUrl": null
+      }
+    ]
+  },
+  {
+    "id": "1903-med",
+    "year": 1903,
+    "category": "med",
+    "fullName": "The Nobel Prize in Physiology or Medicine",
+    "laureates": [
+      {
+        "id": "295",
+        "fullName": "Niels Ryberg Finsen",
+        "motivation": "in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science",
+        "portion": "1",
+        "country": "Faroe Islands (Denmark)",
+        "portraitUrl": null
+      }
+    ]
+  }
+]

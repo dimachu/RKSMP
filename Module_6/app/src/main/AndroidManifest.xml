@@ -1,0 +1,27 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-feature android:name="android.hardware.bluetooth_le" android:required="false" />
+    <uses-permission android:name="android.permission.BLUETOOTH" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" android:maxSdkVersion="30" />
+    <uses-permission android:name="android.permission.BLUETOOTH_SCAN" android:usesPermissionFlags="neverForLocation" />
+    <uses-permission android:name="android.permission.BLUETOOTH_CONNECT" />
+    <application android:theme="@style/AppTheme" android:label="@string/app_name">
+        <activity android:name="edu.module6.MainActivity" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="edu.practice11.photos.MainActivity" android:exported="false">
+            </activity>
+        <activity android:name="edu.practice11.nobel.MainActivity" android:exported="false">
+            </activity>
+        <activity android:name="edu.practice11.auth.MainActivity" android:exported="false">
+            </activity>
+        <activity android:name="edu.practice13.MainActivity" android:exported="false">
+            </activity>
+        <activity android:name="edu.practice14.MainActivity" android:exported="false">
+            </activity>
+    </application>
+</manifest>

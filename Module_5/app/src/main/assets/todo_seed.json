@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Купить продукты",
+    "description": "Молоко и хлеб по дороге домой"
+  },
+  {
+    "title": "Позвонить маме",
+    "description": "Уточнить планы на выходные",
+    "completed": true
+  },
+  {
+    "title": "Сделать задание по Android",
+    "description": "Проверить Room и DataStore"
+  }
+]
