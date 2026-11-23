@@ -28,7 +28,7 @@
             }
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Нужен действующий JWT",
             "content": {
               "application/json": {
                 "schema": {
@@ -38,7 +38,7 @@
             }
           },
           "400": {
-            "description": "Успешный ответ",
+            "description": "Некорректный запрос",
             "content": {
               "application/json": {
                 "schema": {
@@ -48,7 +48,7 @@
             }
           },
           "404": {
-            "description": "Успешный ответ",
+            "description": "Премия не найдена",
             "content": {
               "application/json": {
                 "schema": {
@@ -80,7 +80,7 @@
             }
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Нужен действующий JWT",
             "content": {
               "application/json": {
                 "schema": {
@@ -90,7 +90,7 @@
             }
           },
           "400": {
-            "description": "Успешный ответ",
+            "description": "Некорректный запрос",
             "content": {
               "application/json": {
                 "schema": {
@@ -100,7 +100,7 @@
             }
           },
           "404": {
-            "description": "Успешный ответ",
+            "description": "Премия не найдена",
             "content": {
               "application/json": {
                 "schema": {
@@ -153,7 +153,7 @@
             }
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Нужен действующий JWT",
             "content": {
               "application/json": {
                 "schema": {
@@ -163,7 +163,7 @@
             }
           },
           "400": {
-            "description": "Успешный ответ",
+            "description": "Некорректный запрос",
             "content": {
               "application/json": {
                 "schema": {
@@ -173,7 +173,7 @@
             }
           },
           "404": {
-            "description": "Успешный ответ",
+            "description": "Премия не найдена",
             "content": {
               "application/json": {
                 "schema": {
@@ -223,7 +223,7 @@
             }
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Нужен действующий JWT",
             "content": {
               "application/json": {
                 "schema": {
@@ -233,7 +233,7 @@
             }
           },
           "400": {
-            "description": "Успешный ответ",
+            "description": "Некорректный запрос",
             "content": {
               "application/json": {
                 "schema": {
@@ -243,7 +243,7 @@
             }
           },
           "404": {
-            "description": "Успешный ответ",
+            "description": "Премия не найдена",
             "content": {
               "application/json": {
                 "schema": {
@@ -278,7 +278,7 @@
             }
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Нужен действующий JWT",
             "content": {
               "application/json": {
                 "schema": {
@@ -288,7 +288,7 @@
             }
           },
           "400": {
-            "description": "Успешный ответ",
+            "description": "Некорректный запрос",
             "content": {
               "application/json": {
                 "schema": {
@@ -298,7 +298,7 @@
             }
           },
           "404": {
-            "description": "Успешный ответ",
+            "description": "Премия не найдена",
             "content": {
               "application/json": {
                 "schema": {
@@ -335,7 +335,7 @@
             }
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Неверный логин или пароль",
             "content": {
               "application/json": {
                 "schema": {
@@ -345,7 +345,7 @@
             }
           },
           "400": {
-            "description": "Успешный ответ",
+            "description": "Некорректный запрос",
             "content": {
               "application/json": {
                 "schema": {
@@ -381,7 +381,7 @@
             "description": "Сохранено, повторная операция идемпотентна"
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Нужен действующий JWT",
             "content": {
               "application/json": {
                 "schema": {
@@ -391,7 +391,7 @@
             }
           },
           "404": {
-            "description": "Успешный ответ",
+            "description": "Премия не найдена",
             "content": {
               "application/json": {
                 "schema": {
@@ -425,7 +425,7 @@
             "description": "Премия удалена из избранного либо отсутствовала в нём"
           },
           "401": {
-            "description": "Успешный ответ",
+            "description": "Нужен действующий JWT",
             "content": {
               "application/json": {
                 "schema": {
